@@ -25,8 +25,3 @@ NerdFonts
 JankyBorders
 
 The current .aerospace.toml file initialized Aerospace with a Hyprland style key bind configuration, using the super key manage and move windows and workspaces. 
-```
-```
-```
-```
-```
